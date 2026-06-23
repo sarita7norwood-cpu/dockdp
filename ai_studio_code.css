@@ -1,0 +1,4 @@
+h1.chapter-title {
+  margin-top: 15vh; /* 15% of the viewport height */
+  margin-bottom: 2rem;
+}
